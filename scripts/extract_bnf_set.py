@@ -8,7 +8,7 @@ from pprint import pprint
 #
 # Usage: extract_bnf_set.py bnf_headings.json T201209CHEM+SUBS.CSV T201209PDPI+BNFT.CSV 
 #
-#  bnf_headings.json - chapter, section, paragraph, sub paragraph BNF headline structure 
+#  bnf_headings.json - chapter, section, paragraph, sub paragraph BNF headline structure generated from analysing http://www.nelm.nhs.uk/en/Categories/BNF-Category/ 
 #  T201209CHEM+SUBS.CSV - BNF chemical code to name look up dataset (linked to prescribing data)
 #  T201209PDPI+BNFT.CSV - Practice level prescription statistics Source: http://data.gov.uk/dataset/prescribing-by-gp-practice-presentation-level
 
